@@ -37,14 +37,6 @@ Full Stack Developer passionate about building clean, efficient, and user-friend
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhenda-hub&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats" />
-</div>
-
----
-
 ### 📈 Activity
 
 <div align="center">
